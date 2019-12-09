@@ -1,5 +1,5 @@
 ### 1.什么是MVVM模式
-- Vue是基于MVVM模式而开发出来的，M-Model,V-View,VM-View Model,其中的Model中存储的数据逻辑可以通过View Model实例传送个给视图层，从而实现视图层的数据更新。
+- Vue是基于MVVM模式而开发出来的，M-Model,V-View,VM-View Model,其中的Model中存储的数据逻辑可以通过View Model实例传送给视图层，从而实现视图层的数据更新。
 ```html
 <!DOCTYPE html>
 <html>
